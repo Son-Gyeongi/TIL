@@ -13,3 +13,8 @@ Today I Learned
 [프로젝트를 git 프로젝트로 설정하는 것 : git 초기화(initialize, init),
 내가 만든 프로젝트 폴더에 git설정 파일인 .git폴더 생긴다.
 ★컴퓨터에 있는 프로젝트를 git이 관리하는 프로젝트로 만든다 : git 초기화]
+
+.txt 파일에 저장한 내용들 로컬 repo에 commit 하기
+->저장할 애드(스테이징) 누르고 commit메시지 적어넣고 commit
+[☆add(staging) : commit 에 반영할지 안할지는 파일 단위로 선택할 수 있습니다. commit 에 반영할 파일을 선택하는 것
+ ★commit : 내가 하고 있는 프로젝트 작업 내역들 저장 - 누가, 언제 commit 했는지 작업 변경내용 commit메시지 포함]
